@@ -34,7 +34,3 @@ MongoClient.connect(
 
 
 
-//Uo6A97byjW1gifEC
-//mohammadnihal86357_db_user
-//mongodb+srv://mohammadnihal86357_db_user:Uo6A97byjW1gifEC@cluster0.pw6yc6m.mongodb.net/?appName=Cluster0
-
